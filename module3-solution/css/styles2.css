@@ -1,0 +1,295 @@
+#header-nav {
+
+                background-color: gray;
+
+                border-radius: 0;
+
+                border:2px solid black;
+
+               
+
+}
+
+.navbar{
+
+                padding:0;
+
+}
+
+ 
+
+.navbar-brand h1{
+
+                color: black;
+
+                text-decoration: none;
+
+                font-weight: bold;
+
+                margin-left: 0px
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+
+                text-decoration: none;
+
+}
+
+#navbarNavDropdown{
+
+                background-color: maroon;
+
+                text-align: center;
+                width: 100%;
+ 
+
+}
+
+#p1 {
+
+                color: white;
+
+}
+
+#p2{
+
+                color: white;
+
+}
+
+#p3{
+
+                color: white;
+
+}
+
+.navbar-nav li {
+
+                border:2px solid black;
+
+}
+
+button.navbar-toggler{
+
+                border:3px solid black;
+
+}
+
+button.navbar-toggler:hover{
+
+                background-color: white;
+
+}
+
+ 
+
+#a1 {
+
+                margin-top: 30px;
+
+}
+
+.nav-link:hover{
+
+                background-color: blue;
+
+                opacity: .8;
+
+}
+
+h3{
+
+                font-weight: bold;
+
+}
+
+ 
+
+#chicken, #beef, #sushi{
+
+                height:700px;
+
+                background-color: grey;
+
+                margin-bottom: 20px;
+
+ 
+
+                }
+
+                body{
+
+                                background-color: white;
+
+}
+
+#chicken {
+
+                border:5px solid white;
+
+}
+
+#beef{
+
+                border:5px solid white;
+
+}
+
+#sushi{
+
+                border:5px solid white;
+
+}
+
+ 
+
+On Sat, May 30, 2020 at 7:38 PM vartika verma <vermavartika2000@gmail.com> wrote:
+
+ 
+
+ 
+
+#header-nav {
+
+                background-color: gray;
+
+                border-radius: 0;
+
+                border:2px solid black;
+
+               
+
+}
+
+.navbar{
+
+                padding:0;
+
+}
+
+ 
+
+.navbar-brand h1{
+
+                color: black;
+
+                text-decoration: none;
+
+                font-weight: bold;
+
+                margin-left: 0px
+
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+
+                text-decoration: none;
+
+}
+
+#navbarNavDropdown{
+
+                background-color: maroon;
+
+                text-align: center;
+
+ 
+
+}
+
+#p1 {
+
+                color: white;
+
+}
+
+#p2{
+
+                color: white;
+
+}
+
+#p3{
+
+                color: white;
+
+}
+
+.navbar-nav li {
+
+                border:2px solid black;
+
+}
+
+button.navbar-toggler{
+
+                border:3px solid black;
+
+}
+
+button.navbar-toggler:hover{
+
+                background-color: white;
+
+}
+
+ 
+
+#a1 {
+
+                margin-top: 30px;
+
+}
+
+.nav-link:hover{
+
+                background-color: blue;
+
+                opacity: .8;
+
+}
+
+h3{
+
+                font-weight: bold;
+
+}
+
+ 
+
+#chicken, #beef, #sushi{
+
+                height:700px;
+
+                background-color: grey;
+
+                margin-bottom: 20px;
+
+ 
+
+                }
+
+                body{
+
+                                background-color: white;
+
+}
+
+#chicken {
+
+                border:5px solid white;
+
+}
+
+#beef{
+
+                border:5px solid white;
+
+}
+
+#sushi{
+
+                border:5px solid white;
+
+}
